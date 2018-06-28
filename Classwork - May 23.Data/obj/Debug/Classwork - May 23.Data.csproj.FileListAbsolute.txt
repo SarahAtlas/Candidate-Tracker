@@ -1,0 +1,7 @@
+c:\users\suri\source\repos\Classwork - May 23\Classwork - May 23.Data\bin\Debug\Classwork - May 23.Data.dll.config
+c:\users\suri\source\repos\Classwork - May 23\Classwork - May 23.Data\bin\Debug\Classwork - May 23.Data.dll
+c:\users\suri\source\repos\Classwork - May 23\Classwork - May 23.Data\bin\Debug\Classwork - May 23.Data.pdb
+c:\users\suri\source\repos\Classwork - May 23\Classwork - May 23.Data\obj\Debug\Classwork - May 23.Data.csprojResolveAssemblyReference.cache
+c:\users\suri\source\repos\Classwork - May 23\Classwork - May 23.Data\obj\Debug\Classwork - May 23.Data.csproj.CoreCompileInputs.cache
+c:\users\suri\source\repos\Classwork - May 23\Classwork - May 23.Data\obj\Debug\Classwork - May 23.Data.dll
+c:\users\suri\source\repos\Classwork - May 23\Classwork - May 23.Data\obj\Debug\Classwork - May 23.Data.pdb
